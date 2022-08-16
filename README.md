@@ -9,4 +9,5 @@
 4. Update code, `git add`, `git commit`.  
 5. Push your branch `git push origin branch_name`
 6. Open a PR `branch_name` -> `main`
+7. Copy and paste code into carrd.co.  
 
